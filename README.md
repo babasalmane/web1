@@ -1,1 +1,1 @@
-https://blackstar1a.github.io/BlackStar1a/
+http://sud.work.gd
