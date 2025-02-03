@@ -21,7 +21,9 @@ body {
   text-align: center;
   margin-bottom: 20px;
 }
-
+.calculator-container [href*="dnsexit"] {
+  justify-content: left;
+}
 select {
   margin: 5px;
   padding: 10px;
